@@ -1,0 +1,26 @@
+/*
+ * author: Adam Lasak
+ * website: www.adam-lasak.xf.cz
+ * email: lasak.ad@gmail.com
+ * copyright 2016
+ */
+
+html {
+	font-family: Arial;
+}
+
+.page, table {
+	width: 550px;
+	margin: 0 auto;
+}
+
+#footer {
+	font-size: 80%;
+	color: rgb(50, 50, 50);
+}
+
+#level {
+	padding-top: 10px;
+	float: right;
+	font-weight: bold;
+}
